@@ -17,16 +17,50 @@
 
 declare(strict_types=1);
 
-namespace Fisharebest\Webtrees\Module;
-
+use Fisharebest\Localization\Translation;
+use Fisharebest\Webtrees\I18N;
+use Fisharebest\Webtrees\Module\AbstractModule;
+use Fisharebest\Webtrees\Module\ModuleCustomInterface;
+use Fisharebest\Webtrees\Module\ModuleCustomTrait;
+use Fisharebest\Webtrees\Module\ModuleHistoricEventsTrait;
+use Fisharebest\Webtrees\Module\ModuleHistoricEventsInterface;
 use Illuminate\Support\Collection;
 
-/**
- * Class HolocaustTimeline
- */
-class HolocaustTimeline extends AbstractModule implements ModuleHistoricEventsInterface
-{
+/** 
+ * Historical Holocaust Timeline
+  */
+return new class extends AbstractModule implements ModuleCustomInterface, ModuleHistoricEventsInterface {
+    use ModuleCustomTrait;
     use ModuleHistoricEventsTrait;
+
+    public const CUSTOM_TITLE = 'Holocaust Timeline';
+    
+    public const CUSTOM_WEBSITE = 'https://github.com/murwell/Holocuast-Timeline/';
+    
+    public const CUSTOM_VERSION = '1.0.0';
+
+    /**
+     * Constructor.  The constructor is called on *all* modules, even ones that are disabled.
+     * This is a good place to load business logic ("services").  Type-hint the parameters and
+     * they will be injected automatically.
+     */
+    public function __construct()
+    {
+        // NOTE:  If your module is dependent on any of the business logic ("services"),
+        // then you would type-hint them in the constructor and let webtrees inject them
+        // for you.  However, we can't use dependency injection on anonymous classes like
+        // this one. For an example of this, see the example-server-configuration module.
+    }
+
+    /**
+     * Bootstrap.  This function is called on *enabled* modules.
+     * It is a good place to register routes and views.
+     *
+     * @return void
+     */
+    public function boot(): void
+    {
+    }
 
     /**
      * How should this module be identified in the control panel, etc.?
@@ -35,7 +69,17 @@ class HolocaustTimeline extends AbstractModule implements ModuleHistoricEventsIn
      */
     public function title(): string
     {
-        return 'Holocaust Timeline';
+        return self::CUSTOM_TITLE;
+    }
+
+        /**
+     * The version of this module.
+     *
+     * @return string
+     */
+    public function customModuleVersion(): string
+    {
+        return self::CUSTOM_VERSION;
     }
 
     /**
@@ -47,6 +91,32 @@ class HolocaustTimeline extends AbstractModule implements ModuleHistoricEventsIn
     {
         return false;
     }
+
+    /**
+     * Where does this module store its resources
+     *
+     * @return string
+     */
+    public function resourcesFolder(): string
+    {
+        return __DIR__ . '/resources/';
+    }
+    
+  
+    /**
+     * Structure of events provided by this module:
+     * 
+     * Each line is a GEDCOM style record to describe an event (EVEN), including newline chars (\n);
+     *      1 EVEN <name> (<party>)
+     *      2 TYPE <Chancellor|President> of Germany
+     *      2 DATE <date period>
+     *      2 NOTE [wikipedia de](<link>)
+     *
+     * markdown is used for NOTE;
+     * markdown should be enabled for your tree (see Control panel / Manage family trees / Preferences and then scroll down to "Text" and mark the option "markdown");
+     * is markdown is disabled the links are still working (blank at the end is necessary), but the formatting isn't so nice;
+     */
+
 
     /**
      * All events provided by this module.
