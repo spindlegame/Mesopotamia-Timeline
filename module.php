@@ -137,5 +137,5 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
         ]);
         
     }
-}
-?>
+};
+
