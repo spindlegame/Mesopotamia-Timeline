@@ -124,10 +124,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
      
     public function historicEventsAll(): Collection
     {
-    switch (I18N::languageTag()) {
-            case 'en-AU':
-            case 'en-GB':
-            case 'en-US':
+    
         return new Collection([
             "1 EVEN Germany Invades Belgium\n2 TYPE Occupation\n2 DATE @#DJULIAN@ 10 MAY 1940",
             "1 EVEN Germany Occupies Czechoslovakia\n2 TYPE Occupation\n2 DATE @#DJULIAN@ 15 MARCH 1939",
@@ -140,4 +137,4 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
         ]);
         
     }
-}
+};
