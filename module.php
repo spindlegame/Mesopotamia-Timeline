@@ -134,8 +134,8 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Germany Occupies Hungary\n2 TYPE Occupation\n2 DATE @#DJULIAN@ 19 MARCH 1944",
             "1 EVEN Hitler Comes To Power\n2 TYPE Background\n2 DATE @#DJULIAN@ 01 JAN 1933",
                       
-        ]);
+        ])
         
-    }
+    };
 
 
