@@ -130,7 +130,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Krakow Ghetto Established\n2 TYPE Ghetto\n2 DATE 03 MARCH 1941",
             "1 EVEN Germany begin the deportation of Dutch Jews from camps in the Netherlands\n2 TYPE Deportation\n2 DATE 15 JULY 1942",
             "1 EVEN Krakow Ghetto Liquidated\n2 TYPE Ghetto\n2 DATE 13 MARCH 1943",
-            "1 EVEN 400,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE From 15 MAY 1944 TO 09 JULY 1944",
+            "1 EVEN 400,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE FROM 15 MAY 1944 TO 09 JULY 1944",
 
 
 
