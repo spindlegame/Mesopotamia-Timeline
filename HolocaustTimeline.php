@@ -95,16 +95,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     public function customModuleVersion(): string
     {
         return self::CUSTOM_VERSION;
-  /**
-     * Where to get support for this module.  Perhaps a github respository?
-     *
-     * @return string
-     */
-    public function customModuleSupportUrl(): string
-    {
-        return self::CUSTOM_WEBSITE;
-    }
-
+  
     /**
      * Should this module be enabled when it is first installed?
      *
