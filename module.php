@@ -124,8 +124,17 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN D-Day, Allies Invade Normandy\n2 TYPE Attack\n2 DATE 06 JUN 1944",
             "1 EVEN Germany Occupies Hungary\n2 TYPE Occupation\n2 DATE 19 MARCH 1944",
             "1 EVEN Hitler Comes To Power\n2 TYPE Background\n2 DATE 01 JAN 1933",
-            "1 EVEN Great Britain and France Declare War Against Germany\n2 TYPE Declaration\n2 DATE 03 SEP 1939",
+            "1 EVEN Great Britain and France Declare War Against Germany\n2 TYPE Declaration Of War\n2 DATE 03 SEP 1939",
             "1 EVEN Germany Invades Poland\n2 TYPE Invasion\n2 DATE 01 SEP 1939",
+            "1 EVEN Auschwitz Established\n2 TYPE Concentration Camp\n2 DATE 20 MAY 1940",
+            "1 EVEN Krakow Ghetto Established\n2 TYPE Ghetto\n2 DATE 03 MARCH 1941",
+            "1 EVEN Germany begin the deportation of Dutch Jews from camps in the Netherlands\n2 TYPE Deportation\n2 DATE 15 JULY 1942",
+            "1 EVEN Krakow Ghetto Liquidated\n2 TYPE Ghetto\n2 DATE 13 MARCH 1943",
+            "1 EVEN 400,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE From 15 MAY 1944 TO 09 JULY 1944",
+
+
+
+            
                       
         ]);
      }
