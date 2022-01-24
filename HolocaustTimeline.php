@@ -17,7 +17,7 @@
 
 declare(strict_types=1);
 
-namespace Murwell\WebtreesModules\History\holocaust_timeline
+namespace Murwell\WebtreesModules\History\holocaust_timeline;
 
 use Fisharebest\Localization\Translation;
 use Fisharebest\Webtrees\I18N;
