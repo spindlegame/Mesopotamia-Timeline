@@ -95,7 +95,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     public function customModuleVersion(): string
     {
         return self::CUSTOM_VERSION;
-  
+    }
     /**
      * Should this module be enabled when it is first installed?
      *
