@@ -29,7 +29,7 @@ use Fisharebest\Webtrees\Module\ModuleHistoricEventsInterface;
 use Illuminate\Support\Collection;
 
 /** 
- * Historic Events: Germany
+ * Historic Events: Holocaust Timeline
  */
 
 return new class extends AbstractModule implements ModuleCustomInterface, ModuleHistoricEventsInterface {
@@ -138,3 +138,4 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
         
     }
 }
+?>
