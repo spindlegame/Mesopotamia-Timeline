@@ -17,8 +17,7 @@
 
 declare(strict_types=1);
 
-/** namespace Murwell\WebtreesModules\History\Holocaust_Timeline
-*/
+namespace Murwell\WebtreesModules\History\holocaust_timeline
 
 use Fisharebest\Localization\Translation;
 use Fisharebest\Webtrees\I18N;
@@ -146,13 +145,8 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN D-Day, Allies Invade Normandy\n2 TYPE Attack\n2 DATE @#DJULIAN@ 6 JUN 1944",
             "1 EVEN Germany Occupies Hungary\n2 TYPE Occupation\n2 DATE @#DJULIAN@ 19 MARCH 1944",
             "1 EVEN Hitler Comes To Power\n2 TYPE Background\n2 DATE @#DJULIAN@ 01 JAN 1933",
-            "1 EVEN Kristallnact\n2 TYPE Pogrom\n2 DATE FROM @#DJULIAN@ 09 NOV 1938 TO @#DJULIAN@ 10 NOV 1938\PLAC Germany\n2 NOTE Over 7,000 Jewish businesses were damaged or destroyed, and 30,000 Jewish men were arrested and incarcerated in concentration camps.",
-           
+                      
         ]);
         
-        default:
-                return new Collection();
-        }
-        
     }
-}
+};
