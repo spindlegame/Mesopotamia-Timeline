@@ -124,8 +124,8 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN D-Day, Allies Invade Normandy\n2 TYPE Attack\n2 DATE 06 JUN 1944",
             "1 EVEN Germany Occupies Hungary\n2 TYPE Occupation\n2 DATE 19 MARCH 1944",
             "1 EVEN Hitler Comes To Power\n2 TYPE Background\n2 DATE 01 JAN 1933",
-            "1 EVEN Great Britain and France Declare War Against Germany\n2 TYPE Declaration Of War\DATE 03 SEPT 1939",
-            "1 EVEN Germany Invades Poland\n2 TYPE Invasion\n2 DATE 01 SEPT 1939",
+            "1 EVEN Great Britain and France Declare War Against Germany\n2 TYPE Declaration Of War\DATE 03 SEP 1939",
+            "1 EVEN Germany Invades Poland\n2 TYPE Invasion\n2 DATE 01 SEP 1939",
                       
         ]);
      }
