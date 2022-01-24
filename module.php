@@ -49,6 +49,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
      * This is a good place to load business logic ("services").  Type-hint the parameters and
      * they will be injected automatically.
      */
+    
     public function __construct()
     {
         // NOTE:  If your module is dependent on any of the business logic ("services"),
@@ -134,8 +135,9 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Germany Occupies Hungary\n2 TYPE Occupation\n2 DATE @#DJULIAN@ 19 MARCH 1944",
             "1 EVEN Hitler Comes To Power\n2 TYPE Background\n2 DATE @#DJULIAN@ 01 JAN 1933",
                       
-        ])
+        ]);
+     }
         
-    };
+ };
 
 
