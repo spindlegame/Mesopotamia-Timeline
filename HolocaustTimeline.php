@@ -17,29 +17,105 @@
 
 declare(strict_types=1);
 
-namespace Fisharebest\Webtrees\Module;
+namespace Murwell\WebtreesModules\History\Holocaust_Timeline
 
+use Fisharebest\Localization\Translation;
 use Fisharebest\Webtrees\I18N;
+use Fisharebest\Webtrees\Module\AbstractModule;
+use Fisharebest\Webtrees\Module\ModuleCustomInterface;
+use Fisharebest\Webtrees\Module\ModuleCustomTrait;
+use Fisharebest\Webtrees\Module\ModuleHistoricEventsTrait;
+use Fisharebest\Webtrees\Module\ModuleHistoricEventsInterface;
 use Illuminate\Support\Collection;
 
-/**
- * Class HolocaustTimeline
+/** 
+ * Historic Events: Germany
  */
-class HolocaustTimeline extends AbstractModule implements ModuleHistoricEventsInterface
-{
+
+return new class extends AbstractModule implements ModuleCustomInterface, ModuleHistoricEventsInterface {
+    use ModuleCustomTrait;
     use ModuleHistoricEventsTrait;
 
+    public const CUSTOM_TITLE = 'Holocaust Timeline';
+
+    public const CUSTOM_AUTHOR = 'Murwell';
+    
+    public const CUSTOM_WEBSITE = 'https://github.com/murwell/Holocaust-Timeline/';
+    
+    public const CUSTOM_VERSION = '1.0.0';
+
+/**
+     * Constructor.  The constructor is called on *all* modules, even ones that are disabled.
+     * This is a good place to load business logic ("services").  Type-hint the parameters and
+     * they will be injected automatically.
+     */
+    public function __construct()
+    {
+        // NOTE:  If your module is dependent on any of the business logic ("services"),
+        // then you would type-hint them in the constructor and let webtrees inject them
+        // for you.  However, we can't use dependency injection on anonymous classes like
+        // this one. For an example of this, see the example-server-configuration module.
+    }
+
     /**
+     * Bootstrap.  This function is called on *enabled* modules.
+     * It is a good place to register routes and views.
+     *
+     * @return void
+     */
+    public function boot(): void
+    {
+    }
+   /**
      * How should this module be identified in the control panel, etc.?
      *
      * @return string
      */
     public function title(): string
     {
-        return 'Holocaust Timeline';
+        return self::CUSTOM_TITLE;
+    }
+
+ 
+    /**
+     * The person or organisation who created this module.
+     *
+     * @return string
+     */
+    public function customModuleAuthorName(): string
+    {
+        return self::CUSTOM_AUTHOR;
     }
 
     /**
+     * The version of this module.
+     *
+     * @return string
+     */
+    public function customModuleVersion(): string
+    {
+        return self::CUSTOM_VERSION;
+  /**
+     * Where to get support for this module.  Perhaps a github respository?
+     *
+     * @return string
+     */
+    public function customModuleSupportUrl(): string
+    {
+        return self::CUSTOM_WEBSITE;
+    }
+
+    /**
+     * Should this module be enabled when it is first installed?
+     *
+     * @return bool
+     */
+    public function isEnabledByDefault(): bool
+    {
+        return false;
+    }
+
+        /**
      * Should this module be enabled when it is first installed?
      *
      * @return bool
