@@ -132,7 +132,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Krakow Ghetto Liquidated\n2 TYPE Ghetto\n2 DATE 13 MARCH 1943",
             "1 EVEN 435,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE FROM 15 MAY 1944 TO 09 JULY 1944",
             "1 EVEN German Parliament Passes Nuremberg Race Laws\n2 TYPE Background\n2 DATE 15 SEP 1935",
-            "1 EVEN Kristallnacht\n2 TYPE Pogrom\n2 DATE FROM 09 NOV 1938 TO 10 NOV 1938\n1 NOTE The name Kristallnacht (Crystal Night) comes from the broken windows of Jewish-owned stores, buildings and synagogues were smashed.",
+            "1 EVEN Kristallnacht\n2 TYPE Pogrom\n2 DATE FROM 09 NOV 1938 TO 10 NOV 1938\1 NOTE The name Kristallnacht (Crystal Night) comes from the broken windows of Jewish-owned stores, buildings and synagogues were smashed.",
 
             
 
