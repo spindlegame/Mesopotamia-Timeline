@@ -141,6 +141,19 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN British Passenger Liner Lusitania Is Sunk By A German Sumbarine. Killing about 1200.\n2 TYPE Background\n2 DATE 18 JUNE 1914",
             "1 EVEN United States Declares War On Germany\n2 TYPE Background\n2 DATE 6 APR 1917",
             "1 EVEN United States Signs Armistice With Germany\n2 TYPE Background\n2 DATE 11 NOV 1918",
+            "1 EVEN Britain Declares War On Germany.\n2 TYPE Background\n2 DATE 04 AUG 1914",
+            "1 EVEN Treaty Of Trianon ended WWI. Hungary Gives Up Two Thirds Of Its Land. Town Of Bilky Becomes Part of Czechoslovakia.\n2 TYPE Background\n2 DATE 06 JUNE 1920",
+            "1 EVEN Austria-Hungary Declares War On Serbia. Russia, An Ally Of Serbia, Mobilize Troops.\n2 TYPE Background\n2 DATE 28 JULY 1914",
+            "1 EVEN Germany Declares War On Russia.\n2 TYPE Background\n2 DATE 01 AUG 1914",
+            "1 EVEN Germany Declares War On France.\n2 TYPE Background\n2 DATE 03 AUG 1914",
+            "1 EVEN Austria Declares War On Russia.\n2 TYPE Background\n2 DATE 06 AUG 1914",
+            "1 EVEN Japan Declares War On Germany.\n2 TYPE Background\n2 DATE 23 AUG 1914",
+            "1 EVEN Austria Declares War On Japan.\n2 TYPE Background\n2 DATE 25 AUG 1914",
+            "1 EVEN United States Declares War On Austria-Hungary.\n2 TYPE Background\n2 DATE 7 DEC 1917",
+            
+
+            
+          
 
 
 
