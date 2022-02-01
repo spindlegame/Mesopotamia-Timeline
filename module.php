@@ -137,6 +137,12 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Germany Occupies Denmark and southern Norway\n2 TYPE Invasion\n2 DATE 09 APRIL 1940",
             "1 EVEN France Surrenders To Germany\n2 TYPE Surrender\n2 DATE 22 JUNE 1940",
             "1 EVEN Warsaw Ghetto Sealed\n2 TYPE Ghetto\n2 DATE 16 NOV 1940",
+            "1 EVEN Archduke Franz Ferdinand, Heir To The Austrian Throne, Is Assasinated In Sarajevo, Bosnia\n2 TYPE Assasination\n2 DATE 18 JUNE 1914",
+            "1 EVEN British Passenger Liner Lusitania Is Sunk By A German Sumbarine. Killing about 1200.\n2 TYPE Background\n2 DATE 18 JUNE 1914",
+            "1 EVEN United States Declares War On Germany\n2 TYPE Background\n2 DATE 6 APR 1917",
+            "1 EVEN United States Signs Armistice With Germany\n2 TYPE Background\n2 DATE 11 NOV 1918",
+
+
 
 
 
