@@ -117,7 +117,6 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
     {
     
         return new Collection([
-            "1 EVEN Germany Invades Belgium\n2 TYPE Invasion\n2 DATE 10 MAY 1940",
             "1 EVEN Germany Occupies Czechoslovakia\n2 TYPE Invasion\n2 DATE 15 MARCH 1939",
             "1 EVEN Russia Liberates Auschwitz\n2 TYPE Liberation\n2 DATE 27 JAN 1945",
             "1 EVEN Japan Bombs Pearl Harbor\n2 TYPE Attack\n2 DATE 07 DEC 1941",
