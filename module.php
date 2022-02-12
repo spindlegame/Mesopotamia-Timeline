@@ -151,7 +151,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Austria Declares War On Japan.\n2 TYPE Background\n2 DATE 25 AUG 1914",
             "1 EVEN United States Declares War On Austria-Hungary.\n2 TYPE Background\n2 DATE 7 DEC 1917",
             "1 EVEN Germany Invades Belgium, the Netherlands, and France.\n2 TYPE Background\n2 DATE 10 MAY 1940",
-            "1 EVEN Dunkirk Evacuation.\n2 TYPE Background\n2 DATE FROM 26 May 1940 TO 4 JUNE 1940",
+            "1 EVEN Dunkirk Evacuation.\n2 TYPE Background\n2 DATE FROM 26 MAY 1940 TO 4 JUNE 1940",
 
             
 
