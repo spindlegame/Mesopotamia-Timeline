@@ -131,7 +131,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Krakow Ghetto Liquidated. Those deemed able to work were transported to the Płaszów concentration camp. Some 2,000 Jews unable to move or attempting to run were killed in the streets and in their homes. Operation Reinhard\n2 TYPE Ghetto\n2 DATE 13 MARCH 1943",
             "1 EVEN 435,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE FROM 15 MAY 1944 TO 09 JULY 1944",
             "1 EVEN German Parliament Passes Nuremberg Race Laws. Only racially pure Germans would be allowed to hold German citizenship. It banned future intermarriages and sexual relations between Jews and people “of German or related blood.” \n2 TYPE Background\n2 DATE 15 SEP 1935",
-            "1 EVEN Kristallnacht\n2 TYPE Pogrom\n2 DATE FROM 09 NOV 1938 TO 10 NOV 1938\n2 NOTE Kristallnacht (Crystal Night) comes from the broken windows of Jewish-owned stores, buildings and synagogues that were smashed. 7,500 Jewish owned businesses are looted. 30,000 Jewish males. rounded up and taken to concentration camps. [Wikipedia](https://en.wikipedia.org/wiki/Kristallnacht)",
+            "1 EVEN Kristallnacht\n2 TYPE Pogrom\n2 DATE FROM 09 NOV 1938 TO 10 NOV 1938\n2 NOTE Kristallnacht (Crystal Night) comes from the broken windows of Jewish-owned stores, buildings and synagogues that were smashed. 7,500 Jewish owned businesses are looted. 30,000 Jewish males were rounded up and taken to concentration camps.",
             "1 EVEN Germany begins deportation of Austrian and Czech Jews to Poland\n2 TYPE Deportation\n2 DATE 12 OCT 1939",
             "1 EVEN Germany Occupies Denmark and southern Norway\n2 TYPE Invasion\n2 DATE 09 APRIL 1940",
             "1 EVEN France Surrenders To Germany\n2 TYPE Surrender\n2 DATE 22 JUNE 1940",
@@ -142,7 +142,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN United States Signs Armistice With Germany\n2 TYPE Background\n2 DATE 11 NOV 1918",
             "1 EVEN Britain Declares War On Germany.\n2 TYPE Background\n2 DATE 04 AUG 1914",
             "1 EVEN Treaty Of Trianon ended WWI. Hungary Gives Up Two Thirds Of Its Land. Town Of Bilky Becomes Part of Czechoslovakia.\n2 TYPE Background\n2 DATE 06 JUNE 1920",
-            "1 EVEN Austria-Hungary Declares War On Serbia. Russia, An Ally Of Serbia, Mobilize Troops.\n2 TYPE Background\n2 DATE 28 JULY 1914",
+            "1 EVEN Austria-Hungary Declares War On Serbia. Russia, An Ally Of Serbia, Mobilize Troops. Russia's entrance into WWI was a disaster. By the end of the war, about 2.5 million Russians had been killed.\n2 TYPE Background\n2 DATE 28 JULY 1914",
             "1 EVEN Germany Declares War On Russia.\n2 TYPE Background\n2 DATE 01 AUG 1914",
             "1 EVEN Germany Declares War On France.\n2 TYPE Background\n2 DATE 03 AUG 1914",
             "1 EVEN Austria Declares War On Russia.\n2 TYPE Background\n2 DATE 06 AUG 1914",
@@ -152,6 +152,14 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Germany Invades Belgium, the Netherlands, and France.\n2 TYPE Invasion\n2 DATE 10 MAY 1940",
             "1 EVEN Dunkirk Evacuation.\n2 TYPE Background\n2 DATE FROM 26 MAY 1940 TO 4 JUNE 1940",
             "1 EVEN In Krakow, Judenräte (Jewish Councils) were created which were to be run by Jewish citizens for the purpose of carrying out orders for the Nazis. These orders included registration of all Jewish people living in the area, the collection of taxes, and forced labour groups.\n2 TYPE Krakow Ghetto\n2 DATE 28 NOV 1939",
+            "1 EVEN The Great Powers were divided into two opposing alliances, the Triple Entente, consisting of France, Russia, and Britain, and the Triple Alliance, made up of Germany, Austria-Hungary, and Italy. \n2 TYPE Background\n2 DATE 1 JAN 1914",
+            "1 EVEN Russian Czar Nicholas is forced to abdicate the throne.\n2 TYPE Background\n2 DATE 15 MARCH 1917",
+            "1 EVEN In Russia, leftist revolutionaries led by Bolshevik Party leader Vladimir Lenin launch a nearly bloodless coup d’état against the provisional government. Beginning of the Russian Civil War.\n2 TYPE Background\n2 DATE 7 NOV 1917",
+            "1 EVEN Russian Civil War ends. 7,000,000–12,000,000 total deaths. The overwhelming majority of deaths were civilians. Russia becomes Soviet Union.\n2 TYPE Background\n2 DATE 16 JUNE 1923",
+            "1 EVEN In Soviet Union, Stalin becomes General Secretary of Communist Party.\n2 TYPE Background\n2 DATE 3 APRIL 1922",
+            
+
+            
 
 
             
