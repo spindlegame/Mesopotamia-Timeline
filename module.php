@@ -151,7 +151,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN United States Declares War On Austria-Hungary.\n2 TYPE Background\n2 DATE 7 DEC 1917",
             "1 EVEN Germany Invades Belgium, the Netherlands, and France.\n2 TYPE Invasion\n2 DATE 10 MAY 1940",
             "1 EVEN Dunkirk Evacuation.\n2 TYPE Background\n2 DATE FROM 26 MAY 1940 TO 4 JUNE 1940",
-            "1 EVEN Judenräte (Jewish Councils) were created which were to be run by Jewish citizens for the purpose of carrying out orders for the Nazis. These orders included registration of all Jewish people living in the area, the collection of taxes, and forced labour groups.\n2 TYPE Background\n2 DATE 28 NOV 1939",
+            "1 EVEN In Krakow, Judenräte (Jewish Councils) were created which were to be run by Jewish citizens for the purpose of carrying out orders for the Nazis. These orders included registration of all Jewish people living in the area, the collection of taxes, and forced labour groups.\n2 TYPE Krakow Ghetto\n2 DATE 28 NOV 1939",
 
 
             
