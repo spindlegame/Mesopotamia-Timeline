@@ -160,6 +160,14 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Germany arrests 17,000 Polish Jewish Residents and deports thousands to Poland. https://en.wikipedia.org/wiki/1938_expulsion_of_Polish_Jews_from_Germany\n2 TYPE 1938 Expulsion Of Polish Jews From Germany\n2 DATE FROM 27 OCTOBER 1938 TO 29 OCTOBER 1938",        
             "1 EVEN Carpathian Ruthenia Region, of which Bilky is a part of, declares its indepedence from Czechoslovakia.\n2 TYPE Background\n2 DATE 15 MARCH 1939",
             "1 EVEN Carpathian Ruthenia Region, of which Bilky is a part of, is occupied and annexed by Hungary.\n2 TYPE Background\n2 DATE FROM 15 MARCH 1939 TO  18 MARCH 1939",
+            "1 EVEN Nazis Photograph Hungarian Jews Arriving At Auschwitz. Many Jews Were From The Sub-Carpathia Region. Theses photos became know as The Auschwitz Album/Lilly Jacob Album. Lilly Jacob, the woman who found the photos, was from Bilky, Ukraine. https://www.yadvashem.org/yv/en/exhibitions/album_auschwitz/index.asp\n2 TYPE Background\n2 DATE 26 MAY 1944",
+            "1 EVEN Hungary restricts the number of Jews in each commercial enterprise, in the press, among physicians, engineers and lawyers to twenty percent.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 29 MAY 1938",
+            "1 EVEN Hungary defines Jews racially: individuals with two, three or four Jewish-born grandparents were declared Jewish. It reduced the role of Jews in Hungarian economic life even more, setting the limit to 6%. \n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 5 MAY 1939",
+            "1 EVEN Hungary prohibits intermarriage and penalizes sexual intercourse between Jews and non-Jews. Became a keystone in the process of excluding and eliminating Jews from Hungarian society. \n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 8 AUGUST 1941",
+            "1 EVEN Hungary abolishes the status of Judaism as a received religion.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 19 JULY 1942",            
+            "1 EVEN Hungary prohibits Jews from acquiring agricultural property, and calls for the transfer of Jewish-owned property to non-Jews.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 6 SEPT 1942",
+            
+
 
             
 
