@@ -157,9 +157,9 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN In Russia, leftist revolutionaries led by Bolshevik Party leader Vladimir Lenin launch a nearly bloodless coup d’état against the provisional government. Beginning of the Russian Civil War.\n2 TYPE Background\n2 DATE 7 NOV 1917",
             "1 EVEN Russian Civil War ends. 7,000,000–12,000,000 total deaths. The overwhelming majority of deaths were civilians. Russia becomes Soviet Union.\n2 TYPE Background\n2 DATE 16 JUNE 1923",
             "1 EVEN In Soviet Union, Stalin becomes General Secretary of Communist Party.\n2 TYPE Background\n2 DATE 3 APRIL 1922",
-            "1 EVEN Germany arrests 17,000 Polish Jewish Residents and deports thousands to Poland. https://en.wikipedia.org/wiki/1938_expulsion_of_Polish_Jews_from_Germany\n2 TYPE 1938 Expulsion Of Polish Jews From Germany\n2 DATE FROM 27 OCTOBER 1938 TO 29 OCTOBER 1938",
-            
-            
+            "1 EVEN Germany arrests 17,000 Polish Jewish Residents and deports thousands to Poland. https://en.wikipedia.org/wiki/1938_expulsion_of_Polish_Jews_from_Germany\n2 TYPE 1938 Expulsion Of Polish Jews From Germany\n2 DATE FROM 27 OCTOBER 1938 TO 29 OCTOBER 1938",        
+            "1 EVEN Carpathian Ruthenia Region, of which Bilky is a part of, declares its indepedence from Czechoslovakia.\n2 TYPE Background\n2 DATE 15 MARCH 1939",
+            "1 EVEN Carpathian Ruthenia Region, of which Bilky is a part of, is occupied and annexed by Hungary.\n2 TYPE Background\n2 DATE FROM 15 MARCH 1939 TO  18 MARCH 1939",
 
             
 
