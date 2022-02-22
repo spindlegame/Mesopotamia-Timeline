@@ -1,5 +1,5 @@
 # Holocaust-Timeline
-This is an Historic Add-In for the genalogy software Webtrees. 
+This is an Historic Add-In for the genealogy software Webtrees. 
 It is a work in progress and gets updated regularly.
 At this time, this is version number 1.0. But the timeline will be updated without changing the version number because changes are made too frequently.
 The idea of this timeline is to give context to Jewish Family History during the period from World War I Through World War II.
