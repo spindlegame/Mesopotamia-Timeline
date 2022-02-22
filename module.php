@@ -166,7 +166,8 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Hungary prohibits intermarriage and penalizes sexual intercourse between Jews and non-Jews. Became a keystone in the process of excluding and eliminating Jews from Hungarian society. \n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 8 AUGUST 1941",
             "1 EVEN Hungary abolishes the status of Judaism as a received religion.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 19 JULY 1942",            
             "1 EVEN Hungary prohibits Jews from acquiring agricultural property, and calls for the transfer of Jewish-owned property to non-Jews.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 6 SEPT 1942",
-            
+            "1 EVEN Munich Agreement reached by Germany, Great Britain, France, and Italy that permitted German annexation of the Sudetenland, in western Czechoslovakia.\n2 TYPE Background\n2 DATE 30 SEPTEMBER 1938",
+
 
 
             
