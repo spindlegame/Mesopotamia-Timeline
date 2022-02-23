@@ -168,7 +168,9 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Hungary prohibits Jews from acquiring agricultural property, and calls for the transfer of Jewish-owned property to non-Jews.\n2 TYPE Hungarian Anti-Jewish Laws\n2 DATE 6 SEPT 1942",
             "1 EVEN Munich Agreement reached by Germany, Great Britain, France, and Italy that permitted German annexation of the Sudetenland, in western Czechoslovakia.\n2 TYPE Background\n2 DATE 30 SEPTEMBER 1938",
             "1 EVEN Germany annexes Austria.\n2 TYPE Background\n2 DATE 12 MARCH 1938",
-
+            "1 EVEN First Vienna Award separated from Czechoslovakia territories in southern Slovakia and southern Carpathian Rus and gave them to Hungary.\n2 TYPE Background\n2 DATE 2 NOVEMBER 1938",
+            "1 EVEN UN General Assembly passes Resolution 181, adopting a plan to partition the Palestine British Mandate into two states, one Jewish, one Arab.\n2 TYPE Background\n2 DATE 29 NOVEMBER 1947",
+            "1 EVEN Israel declares its independence.\n2 TYPE Background\n2 DATE 14 MAY 1948",            
 
 
             
