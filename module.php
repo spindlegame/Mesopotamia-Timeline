@@ -171,6 +171,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN First Vienna Award separated from Czechoslovakia territories in southern Slovakia and southern Carpathian Rus and gave them to Hungary.\n2 TYPE Background\n2 DATE 2 NOVEMBER 1938",
             "1 EVEN UN General Assembly passes Resolution 181, adopting a plan to partition the Palestine British Mandate into two states, one Jewish, one Arab.\n2 TYPE Background\n2 DATE 29 NOVEMBER 1947",
             "1 EVEN Israel declares its independence.\n2 TYPE Background\n2 DATE 14 MAY 1948",            
+            "1 EVEN Germany unconditionally surrenders.\n2 TYPE Background\n2 DATE 07 MAY 1945",            
 
 
             
