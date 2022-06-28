@@ -172,6 +172,17 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN UN General Assembly passes Resolution 181, adopting a plan to partition the Palestine British Mandate into two states, one Jewish, one Arab.\n2 TYPE Background\n2 DATE 29 NOVEMBER 1947",
             "1 EVEN Israel declares its independence.\n2 TYPE Background\n2 DATE 14 MAY 1948",            
             "1 EVEN Germany unconditionally surrenders.\n2 TYPE Background\n2 DATE 07 MAY 1945",            
+            "1 EVEN In the United States, the 18th Amendment Prohibition of alcohol becomes effective.\n2 TYPE Background\n2 DATE 17 JAN 1920",            
+            "1 EVEN In the United States, the 18th Amendment is repealed and alcohol becomes legal again.\n2 TYPE Background\n2 DATE 5 DEC 1933",            
+            "1 EVEN In the United States, the stock market crashes and loses 23% in two days.\n2 TYPE Background\n2 DATE FROM 23 OCT 1929 TO 24 OCT 1929",
+            "1 EVEN In the United States, the stock market loses 90% of its value in less than three years.\n2 TYPE Background\n2 DATE FROM APR 1930 TO JULY 1933",
+            "1 EVEN In the United States, the 18th Amendment is certified and women are given the right to vote.\n2 TYPE Background\n2 DATE 26 AUG 1920",
+            "1 EVEN In Czechoslovakia, women are given the right to vote when the Constitution is enacted.\n2 TYPE Background\n2 DATE 29 FEB 1920",
+            "1 EVEN In the United States, the Emergency Quota Act restricts the number of immigrants.\n2 TYPE Background\n2 DATE 21 MAY 1921",
+            
+            
+
+            
 
 
             
