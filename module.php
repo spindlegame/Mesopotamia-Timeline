@@ -179,7 +179,12 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN In the United States, the 18th Amendment is certified and women are given the right to vote.\n2 TYPE Background\n2 DATE 26 AUG 1920",
             "1 EVEN In Czechoslovakia, women are given the right to vote when the Constitution is enacted.\n2 TYPE Background\n2 DATE 29 FEB 1920",
             "1 EVEN In the United States, the Emergency Quota Act restricts the number of immigrants.\n2 TYPE Background\n2 DATE 21 MAY 1921",
+            "1 EVEN Henry Ford publishes an article called THE INTERNATIONAL JEW: THE WORLD'S PROBLEM in the Dearborn Independent. Ford continues to publish anti-semitic articles for seven years. Copies of the newspapers are placed in Ford Auto Delearships. newspaper is sent\n2 TYPE Background\n2 DATE 22 MAY 1920",
+            "1 EVEN Mein Kampf, Hitler's autobigraphical manifesto, is published. Hitler compliments Henry Ford by name.\n2 TYPE Background\n2 DATE 18 JULY 1925",
             
+            
+            
+
             
 
             
