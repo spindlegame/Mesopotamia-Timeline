@@ -175,12 +175,13 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN In the United States, the 18th Amendment Prohibition of alcohol becomes effective.\n2 TYPE Background\n2 DATE 17 JAN 1920",            
             "1 EVEN In the United States, the 18th Amendment is repealed and alcohol becomes legal again.\n2 TYPE Background\n2 DATE 5 DEC 1933",            
             "1 EVEN In the United States, the stock market crashes and loses 23% in two days.\n2 TYPE Background\n2 DATE FROM 23 OCT 1929 TO 24 OCT 1929",
-            "1 EVEN In the United States, the stock market loses 90% of its value in less than three years.\n2 TYPE Background\n2 DATE FROM APR 1930 TO JULY 1933",
+            "1 EVEN In the United States, the stock market loses 90% of its value in less than three years.\n2 TYPE Background\n2 DATE FROM APR 1930 TO JULY 1932",
             "1 EVEN In the United States, the 18th Amendment is certified and women are given the right to vote.\n2 TYPE Background\n2 DATE 26 AUG 1920",
             "1 EVEN In Czechoslovakia, women are given the right to vote when the Constitution is enacted.\n2 TYPE Background\n2 DATE 29 FEB 1920",
             "1 EVEN In the United States, the Emergency Quota Act restricts the number of immigrants.\n2 TYPE Background\n2 DATE 21 MAY 1921",
             "1 EVEN Henry Ford publishes an article called THE INTERNATIONAL JEW: THE WORLD'S PROBLEM in the Dearborn Independent. Ford continues to publish anti-semitic articles for seven years. Copies of the newspapers are placed in Ford Auto Delearships. newspaper is sent\n2 TYPE Background\n2 DATE 22 MAY 1920",
             "1 EVEN Mein Kampf, Hitler's autobigraphical manifesto, is published. Hitler compliments Henry Ford by name.\n2 TYPE Background\n2 DATE 18 JULY 1925",
+            "1 EVEN The United States stock market reaches its lowest point during the Great Depression.\n2 TYPE Background\n2 DATE 8 JULY 1932",
             
             
             
