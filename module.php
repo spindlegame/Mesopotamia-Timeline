@@ -185,6 +185,13 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Heinrich Bruning becomes Chancellor of Germany. In response to the worldwide depression, he institutes a policy of austerity by tightening credit and reducing wages.\n2 TYPE Background\n2 DATE 30 MARCH 1930",
             "1 EVEN Heinrich Bruning, Chancellor Of German, announces his Cabinet's resignation. Hitler becomes chancellor eight months later.\n2 TYPE Background\n2 DATE 30 MAY 1932",
             "1 EVEN Hyperinflation occurs in Germany as a result of debt/reparations owed from World War I.\n2 TYPE Background\n2 DATE FROM 1921 TO 1923",
+            "1 EVEN United States Detonates An Atomic Bomb Over Hiroshima, Japan.\n2 TYPE Background\n2 DATE FROM 6 AUG 1945",
+            "1 EVEN Japan anounces its surrender ending World War II.\n2 TYPE Background\n2 DATE FROM 15 AUG 1945",
+            "1 EVEN Aoviet Union declares War on Japan.\n2 TYPE Background\n2 DATE FROM 8 AUG 1945",
+            "1 EVEN United States Detonates An Atomic Bomb Over Nagasaki, Japan.\n2 TYPE Background\n2 DATE FROM 9 AUG 1945",
+            "1 EVEN The Korean War begins when North Korea invades South Korea.\n2 TYPE Background\n2 DATE FROM 25 JUNE 1950",
+            "1 EVEN An armistice ends the fighting in the Korean War.\n2 TYPE Background\n2 DATE FROM 27 JULY 1953",
+            "1 EVEN Japan annexes Korea.\n2 TYPE Background\n2 DATE FROM 1910",
 
             
             
