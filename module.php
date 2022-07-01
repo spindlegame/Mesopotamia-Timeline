@@ -182,7 +182,9 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Henry Ford publishes an article called THE INTERNATIONAL JEW: THE WORLD'S PROBLEM in the Dearborn Independent. Ford continues to publish anti-semitic articles for seven years. Copies of the newspapers are placed in Ford Auto Delearships. newspaper is sent\n2 TYPE Background\n2 DATE 22 MAY 1920",
             "1 EVEN Mein Kampf, Hitler's autobigraphical manifesto, is published. Hitler compliments Henry Ford by name.\n2 TYPE Background\n2 DATE 18 JULY 1925",
             "1 EVEN The United States stock market reaches its lowest point during the Great Depression. It was down 90% from its high.\n2 TYPE Background\n2 DATE 8 JULY 1932",
-            
+            "1 EVEN Heinrich Bruning becomes Chancellor of Germany. In response to the worldwide depression, he institutes a policy of austerity by tightening credit and reducing wages.\n2 TYPE Background\n2 DATE 30 MARCH 1930",
+            "1 EVEN Heinrich Bruning, Chancellor Of German, announces his Cabinet's resignation. Hitler becomes chancellor eight months later.\n2 TYPE Background\n2 DATE 30 MAY 1932",
+
             
             
 
