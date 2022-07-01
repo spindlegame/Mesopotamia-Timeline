@@ -181,7 +181,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN In the United States, the Emergency Quota Act restricts the number of immigrants.\n2 TYPE Background\n2 DATE 21 MAY 1921",
             "1 EVEN Henry Ford publishes an article called THE INTERNATIONAL JEW: THE WORLD'S PROBLEM in the Dearborn Independent. Ford continues to publish anti-semitic articles for seven years. Copies of the newspapers are placed in Ford Auto Delearships. newspaper is sent\n2 TYPE Background\n2 DATE 22 MAY 1920",
             "1 EVEN Mein Kampf, Hitler's autobigraphical manifesto, is published. Hitler compliments Henry Ford by name.\n2 TYPE Background\n2 DATE 18 JULY 1925",
-            "1 EVEN The United States stock market reaches its lowest point during the Great Depression.\n2 TYPE Background\n2 DATE 8 JULY 1932",
+            "1 EVEN The United States stock market reaches its lowest point during the Great Depression. It was down 90% from its high.\n2 TYPE Background\n2 DATE 8 JULY 1932",
             
             
             
