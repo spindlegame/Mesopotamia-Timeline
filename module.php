@@ -184,6 +184,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN The United States stock market reaches its lowest point during the Great Depression. It was down 90% from its high.\n2 TYPE Background\n2 DATE 8 JULY 1932",
             "1 EVEN Heinrich Bruning becomes Chancellor of Germany. In response to the worldwide depression, he institutes a policy of austerity by tightening credit and reducing wages.\n2 TYPE Background\n2 DATE 30 MARCH 1930",
             "1 EVEN Heinrich Bruning, Chancellor Of German, announces his Cabinet's resignation. Hitler becomes chancellor eight months later.\n2 TYPE Background\n2 DATE 30 MAY 1932",
+            "1 EVEN Hyperinflation occurs in Germany as a result of debt/reparations owed from World War I.\n2 TYPE Background\n2 DATE FROM 1921 TO 1923",
 
             
             
