@@ -193,6 +193,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN An armistice ends the fighting in the Korean War.\n2 TYPE Background\n2 DATE FROM 27 JULY 1953",
             "1 EVEN Japan annexes Korea.\n2 TYPE Background\n2 DATE FROM 1910",
             "1 EVEN On the first night of Passover, Erev Pesach - Hebrew Calendar Nisan 14 (1st day of Pesach is Nisan 15), the Nazis enter the Warsaw Ghetto to deport the remaining Jews. In response, the uprising begins. Nazis proceed to burn the ghetto, block by block, murdering 13,000 Jews. It ended with the Nazis destroying the Great Synagogue Of Warsaw. The remaining 50,000 Jews were deported to concentration camps.\n2 TYPE Background\n2 FROM 19 APRIL 1943 TO 16 MAY 1943", 
+            "1 EVEN 1936 Summer Olympics begins in Berlin, Germany. German Jewish athletes were barred.\n2 TYPE Background\n2 DATE 1 AUG 1936",
 
             
             
