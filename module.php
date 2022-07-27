@@ -198,6 +198,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Hitler holds a secret meeting in which he outlines Germany's plan to expand its territories by force. The meeting is summarized in the Hossbach Memorandum.\n2 TYPE Background\n2 DATE 5 NOV 1937",
             "1 EVEN Winston Churchill becomes Prime Minister of Britain. \n2 TYPE Background\n2 DATE 10 MAY 1940",
             "1 EVEN At the Wannsee Conference, Nazis finalized their Final Solution plans to murder all the Jews after their deportation. Adolf Eichmann, who was eventually tried and executed in Israel for murdering Jews via the systematic deportation of millions of Jews to the extermination camps, was at the meeting.\n2 TYPE Background\n2 DATE 20 JAN 1942",
+            "1 EVEN Belgium Resistance attacks a train bound for Auschwitz and free 233 prisoners. It is the only mass escape from a Holocaust train. \n2 TYPE Background\n2 DATE 19 APR 1943",
 
 
 
