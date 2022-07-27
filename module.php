@@ -126,7 +126,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Great Britain and France Declare War Against Germany\n2 TYPE Declaration Of War\n2 DATE 03 SEP 1939",
             "1 EVEN Beginning of WWII. Germany Invades Poland\n2 TYPE Invasion\n2 DATE 01 SEP 1939",
             "1 EVEN Auschwitz Established\n2 TYPE Concentration Camp\n2 DATE 20 MAY 1940",
-            "1 EVEN Krakow Ghetto Established\n2 TYPE Ghetto\n2 DATE 03 MARCH 1941",
+            "1 EVEN Krakow Ghetto Formally Established\n2 TYPE Ghetto\n2 DATE 03 MARCH 1941",
             "1 EVEN Germany begins the deportation of Dutch Jews from camps in the Netherlands\n2 TYPE Deportation\n2 DATE 15 JULY 1942",
             "1 EVEN Krakow Ghetto Liquidated. Those deemed able to work were transported to the Płaszów concentration camp. Some 2,000 Jews unable to move or attempting to run were killed in the streets and in their homes. Operation Reinhard\n2 TYPE Ghetto\n2 DATE 13 MARCH 1943",
             "1 EVEN 435,000 Hungarian Jews Are Deported To Auschwitz\n2 TYPE Deportation\n2 DATE FROM 15 MAY 1944 TO 09 JULY 1944",
@@ -185,15 +185,19 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Heinrich Bruning becomes Chancellor of Germany. In response to the worldwide depression, he institutes a policy of austerity by tightening credit and reducing wages.\n2 TYPE Background\n2 DATE 30 MARCH 1930",
             "1 EVEN Heinrich Bruning, Chancellor Of German, announces his Cabinet's resignation. Hitler becomes chancellor eight months later.\n2 TYPE Background\n2 DATE 30 MAY 1932",
             "1 EVEN Hyperinflation occurs in Germany as a result of debt/reparations owed from World War I.\n2 TYPE Background\n2 DATE FROM 1921 TO 1923",
-            "1 EVEN United States Detonates An Atomic Bomb Over Hiroshima, Japan.\n2 TYPE Background\n2 DATE FROM 6 AUG 1945",
+            "1 EVEN United States Detonates An Atomic Bomb Over Hiroshima, Japan.\n2 TYPE Background\n2 DATE 6 AUG 1945",
             "1 EVEN Japan anounces its surrender ending World War II.\n2 TYPE Background\n2 DATE FROM 15 AUG 1945",
-            "1 EVEN Aoviet Union declares War on Japan.\n2 TYPE Background\n2 DATE FROM 8 AUG 1945",
-            "1 EVEN United States Detonates An Atomic Bomb Over Nagasaki, Japan.\n2 TYPE Background\n2 DATE FROM 9 AUG 1945",
-            "1 EVEN The Korean War begins when North Korea invades South Korea.\n2 TYPE Background\n2 DATE FROM 25 JUNE 1950",
-            "1 EVEN An armistice ends the fighting in the Korean War.\n2 TYPE Background\n2 DATE FROM 27 JULY 1953",
+            "1 EVEN Aoviet Union declares War on Japan.\n2 TYPE Background\n2 DATE 8 AUG 1945",
+            "1 EVEN United States Detonates An Atomic Bomb Over Nagasaki, Japan.\n2 TYPE Background\n2 DATE 9 AUG 1945",
+            "1 EVEN The Korean War begins when North Korea invades South Korea.\n2 TYPE Background\n2 DATE 25 JUNE 1950",
+            "1 EVEN An armistice ends the fighting in the Korean War.\n2 TYPE Background\n2 DATE 27 JULY 1953",
             "1 EVEN Japan annexes Korea.\n2 TYPE Background\n2 DATE FROM 1910",
             "1 EVEN On the first night of Passover, Erev Pesach - Hebrew Calendar Nisan 14 (1st day of Pesach is Nisan 15), the Nazis enter the Warsaw Ghetto to deport the remaining Jews. In response, the uprising begins. Nazis proceed to burn the ghetto, block by block, murdering 13,000 Jews. It ended with the Nazis destroying the Great Synagogue Of Warsaw. The remaining 50,000 Jews were deported to concentration camps.\n2 TYPE Background\n2 FROM 19 APRIL 1943 TO 16 MAY 1943", 
             "1 EVEN 1936 Summer Olympics begins in Berlin, Germany. German Jewish athletes were barred.\n2 TYPE Background\n2 DATE 1 AUG 1936",
+            "1 EVEN Reichstag Fire gives Hitler the opportunity to suspend civil liberties and the establishment of the Nazi Party as the only political party in Germany.\n2 TYPE Background\n2 DATE 27 FeB 1933",
+            "1 EVEN Hitler holds a secret meeting in which he outlines Germany's plan to expand its territories. The meeting is summarized in the Hossbach Memorandum.\n2 TYPE Background\n2 DATE 5 NOV 1937",
+
+
 
             
             
