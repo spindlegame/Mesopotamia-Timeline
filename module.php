@@ -195,7 +195,8 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN On the first night of Passover, Erev Pesach - Hebrew Calendar Nisan 14 (1st day of Pesach is Nisan 15), the Nazis enter the Warsaw Ghetto to deport the remaining Jews. In response, the uprising begins. Nazis proceed to burn the ghetto, block by block, murdering 13,000 Jews. It ended with the Nazis destroying the Great Synagogue Of Warsaw. The remaining 50,000 Jews were deported to concentration camps.\n2 TYPE Background\n2 FROM 19 APRIL 1943 TO 16 MAY 1943", 
             "1 EVEN 1936 Summer Olympics begins in Berlin, Germany. German Jewish athletes were barred.\n2 TYPE Background\n2 DATE 1 AUG 1936",
             "1 EVEN Reichstag Fire gives Hitler the opportunity to suspend civil liberties and the establishment of the Nazi Party as the only political party in Germany.\n2 TYPE Background\n2 DATE 27 FeB 1933",
-            "1 EVEN Hitler holds a secret meeting in which he outlines Germany's plan to expand its territories. The meeting is summarized in the Hossbach Memorandum.\n2 TYPE Background\n2 DATE 5 NOV 1937",
+            "1 EVEN Hitler holds a secret meeting in which he outlines Germany's plan to expand its territories by force. The meeting is summarized in the Hossbach Memorandum.\n2 TYPE Background\n2 DATE 5 NOV 1937",
+            "1 EVEN Winston Churchill becomes Prime Minister of Britain. \n2 TYPE Background\n2 DATE 10 MAY 1940",
 
 
 
