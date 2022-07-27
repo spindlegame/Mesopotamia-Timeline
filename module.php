@@ -199,7 +199,15 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Winston Churchill becomes Prime Minister of Britain. \n2 TYPE Background\n2 DATE 10 MAY 1940",
             "1 EVEN At the Wannsee Conference, Nazis finalized their Final Solution plans to murder all the Jews after their deportation. Adolf Eichmann, who was eventually tried and executed in Israel for murdering Jews via the systematic deportation of millions of Jews to the extermination camps, was at the meeting.\n2 TYPE Background\n2 DATE 20 JAN 1942",
             "1 EVEN Belgium Resistance attacks a train bound for Auschwitz and free 233 prisoners. It is the only mass escape from a Holocaust train. \n2 TYPE Background\n2 DATE 19 APR 1943",
-
+            "1 EVEN In Poland, all Jews above the age of 11 must wear white armbands with the Jewish Star.\n2 TYPE Background\n2 DATE 23 NOV 1939",
+            "1 EVEN Jewish Germans and Jews with citizenship of annexed states (Austrians, Czechs, Danzigers) from the age of six years are ordered to wear a yellow badge in the shape of a Jewish Star with Jude in the center.\n2 TYPE Background\n2 DATE 1 SEPT 1941", 
+            "1 EVEN Jewish Dutch people ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 29 APRIL 1942",
+            "1 EVEN Jewish Belgians people ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 3 JUNE 1942",
+            "1 EVEN Jews in Occuppied France ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 7 JUNE 1942",
+            "1 EVEN First convoy of Jews from Frnace are sent to Auschwitz.\n2 TYPE Background\n2 DATE 27 MARCH 1942",    
+            "1 EVEN French communist newspaper publishes a cover story about the extermination of 11,000 French Jews at Auschwitz.\n2 TYPE Background\n2 DATE 10 OCT 1942",    
+            "1 EVEN Two inmates, Slovak Jews Alfred Wetzler and Rudolf Vrba, escape from Auschwitz. They contact the Jewish council in Slovakia and give details about the murder of Jews at Auschwitz. A report is soon released to warn Hungary’s Jews of the Nazi plans to wipe out their community. The report initally does nothing to stop the mass deportation of Hungarian Jews to Auschwitz. Finally, in July 1944, after the report is published in the Swiss Press,  Hungary is forced to stopped the deportation. The persecution of Hungarian Jews is continued in October 1944.\n2 TYPE Background\n2 DATE 10 APRIL 1944",    
+            "1 EVEN Small story on page 10 of the New York Times reported: Jerusalem - Information received here of methods by which the Germans in Poland are carrying out the slaughter of Jews includes accounts of train loads of adults and children taken to great crematoriums at Oswiecim [Auschwitz], near Cracow. Polish Christian workers have confirmed reports that concrete buildings on the former Russian frontiers are used by the Germans as gas chambers in which thousands of Jews have been put to death. All children aged 1 to 12 have been gathered from large city ghettos or towns and slain wholesale within a few minutes by machine-gun fire. Similar massacre of elderly Jews have occurred. Any Jew put on forced labor who is on the sick list for more than two days is taken out and shot as useless.\n2 TYPE Background\n2 DATE 25 NOV 1942",    
 
 
             
