@@ -204,12 +204,14 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Jewish Dutch people ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 29 APRIL 1942",
             "1 EVEN Jewish Belgians people ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 3 JUNE 1942",
             "1 EVEN Jews in Occuppied France ordered to wear the Jewish yellow badge.\n2 TYPE Background\n2 DATE 7 JUNE 1942",
-            "1 EVEN First convoy of Jews from Frnace are sent to Auschwitz.\n2 TYPE Background\n2 DATE 27 MARCH 1942",    
+            "1 EVEN First convoy of Jews from France are sent to Auschwitz.\n2 TYPE Background\n2 DATE 27 MARCH 1942",    
             "1 EVEN French communist newspaper publishes a cover story about the extermination of 11,000 French Jews at Auschwitz.\n2 TYPE Background\n2 DATE 10 OCT 1942",    
             "1 EVEN Two inmates, Slovak Jews Alfred Wetzler and Rudolf Vrba, escape from Auschwitz. They contact the Jewish council in Slovakia and give details about the murder of Jews at Auschwitz. A report is soon released to warn Hungary’s Jews of the Nazi plans to wipe out their community. The report initally does nothing to stop the mass deportation of Hungarian Jews to Auschwitz. Finally, in July 1944, after the report is published in the Swiss Press,  Hungary is forced to stopped the deportation. The persecution of Hungarian Jews is continued in October 1944.\n2 TYPE Background\n2 DATE 10 APRIL 1944",    
             "1 EVEN Small story on page 10 of the New York Times reported on the slaughter of Jews at Auschwitz.\n2 TYPE Reports On The Holocaust\n2 DATE 25 NOV 1942",    
-
-
+            "1 EVEN A non-aggression pact is signed between Soviet Union and Germany. It enabled the two countries to partition Poland. It is known as the Molotov-Ribbentrop pact.\n2 TYPE Background\n2 DATE 23 AUG 1939",  
+            "1 EVEN Soviet Union invades Poland.\n2 TYPE Background\n2 DATE 17 SEPT 1939",
+            "1 EVEN Soviet Union and Germany divide Poland by German–Soviet Boundary and Friendship Treaty.\n2 TYPE Background\n2 DATE 28 SEPT 1939",
+            
             
             
 
