@@ -211,7 +211,10 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN A non-aggression pact is signed between Soviet Union and Germany. It enabled the two countries to partition Poland. It is known as the Molotov-Ribbentrop pact.\n2 TYPE Background\n2 DATE 23 AUG 1939",  
             "1 EVEN Soviet Union invades Poland.\n2 TYPE Background\n2 DATE 17 SEPT 1939",
             "1 EVEN Soviet Union and Germany divide Poland by German–Soviet Boundary and Friendship Treaty.\n2 TYPE Background\n2 DATE 28 SEPT 1939",
-            
+            "1 EVEN Allied Forces invasion of Italy begins in Sicily.\n2 TYPE Background\n2 DATE 10 JULY 1943",
+            "1 EVEN Armistice of Cassibile is entered into between the Allies and The Kingdom of Italy.\n2 TYPE Background\n2 DATE 3 SEPT 1943",
+            "1 EVEN American and French Troops Liberate Paris.\n2 TYPE Background\n2 DATE 25 AUG 1944",
+
             
             
 
