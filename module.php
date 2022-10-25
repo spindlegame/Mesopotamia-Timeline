@@ -214,6 +214,7 @@ return new class extends AbstractModule implements ModuleCustomInterface, Module
             "1 EVEN Allied Forces invasion of Italy begins in Sicily.\n2 TYPE Background\n2 DATE 10 JULY 1943",
             "1 EVEN Armistice of Cassibile is entered into between the Allies and The Kingdom of Italy.\n2 TYPE Background\n2 DATE 3 SEPT 1943",
             "1 EVEN American and French Troops Liberate Paris.\n2 TYPE Background\n2 DATE 25 AUG 1944",
+            "1 EVEN Deportations of Jews from Munkacs (about 40 km from Bilky) to Auschwitz begin.\n2 TYPE Background\n2 DATE 11 MAY 1944",
 
             
             
