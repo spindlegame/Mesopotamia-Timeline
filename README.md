@@ -1,8 +1,10 @@
-# Holocaust-Timeline
+# Mesopotamia-Timeline
 This is an Historic Add-In for the genealogy software Webtrees. 
-It is a work in progress and gets updated occasionally. 
-The focus of the timeline is on Jews in Germany and Hungary. The purpose is to give context to Jewish Family History during the period from World War I Through World War II. Although, as I've worked on it more, it's been expanded to include other events. You, of course, can delete whatever events you don't want in your family timeline. The timeline keeps expanding as I've come to appreciate the impact that external events had my family and my life.
-This is version number 1.0. The timeline will be updated without changing the version number because changes are made too frequently.
-To use, upload the entire folder to webtrees/modules-v4.
-The timeline also needs to be enabled on YOUR Webtrees website by going to Control Panel --> Modules --> Historic Events and checking "Holocaust Timeline."
-To see an example, visit https://emlekezik.com/tree/tree1/individual/I0006/Erika-Weiser. Make sure "historic events" is checked.
+It is a fork of Murwell's Holocaust Timeline
+visit 
+https://tech.emlekezik.com/2022/04/04/adding-a-holocaust-historical-timeline-to-webtrees-genealogy-website.html
+https://emlekezik.com/tree/tree1/individual/I0006/Erika-Weiser. 
+
+# Data
+The data for this timeline are used in the classical three-age-system in archeology and the periodization mentioned in Wikipedia:
+https://en.wikipedia.org/wiki/Mesopotamia#History
